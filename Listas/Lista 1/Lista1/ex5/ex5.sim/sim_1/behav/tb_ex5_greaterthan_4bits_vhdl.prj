@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../ex5.srcs/sources_1/new/ex5_greaterthan_2bits.vhd"
+vhdl xil_defaultlib  "../../../ex5.srcs/sources_1/new/ex5_greaterthan_4bits.vhd"
+vhdl xil_defaultlib  "../../../ex5.srcs/sim_1/new/tb_ex5_greaterthan_4bits.vhd"
+
+# Do not sort compile order
+nosort

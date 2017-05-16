@@ -1,0 +1,4 @@
+Running: xsim.dir/tb_ex7_somador_1_behav/xsimk.exe -simmode gui -wdb tb_ex7_somador_1_behav.wdb -simrunnum 0 -socket 61093
+Design successfully loaded
+Design Loading Memory Usage: 8328 KB (Peak: 8328 KB)
+Design Loading CPU Usage: 77 ms

@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Xilinx/Projetos_PCR/Lista1/ex7_somadores/ex7_somadores.srcs/sources_1/new/ex7_somador_2.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ex7_somador_2
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Xilinx/Projetos_PCR/Lista1/ex7_somadores/ex7_somadores.srcs/sim_1/new/tb_ex7_somador_2.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity tb_ex7_somador_2

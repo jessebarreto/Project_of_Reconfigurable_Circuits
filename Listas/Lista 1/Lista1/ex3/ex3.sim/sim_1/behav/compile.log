@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Xilinx/Projetos_PCR/Lista1/ex3/ex3.srcs/sources_1/new/ex3.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ex3
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Xilinx/Projetos_PCR/Lista1/ex3/ex3.srcs/sim_1/new/tb_ex3.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity tb_ex3

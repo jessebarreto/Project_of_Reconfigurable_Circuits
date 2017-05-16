@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1490925738">
+  <File Type="ROUTE-PWR-RPX" Name="ex4_power_routed.rpx"/>
+  <File Type="PA-TCL" Name="ex4.tcl"/>
+  <File Type="INIT-TIMING" Name="ex4_timing_summary_init.rpt"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="ex4_methodology_drc_opted.rpt"/>
+  <File Type="PWROPT-DRC" Name="ex4_drc_pwropted.rpt"/>
+  <File Type="RDI-RDI" Name="ex4.vdi"/>
+  <File Type="OPT-DCP" Name="ex4_opt.dcp"/>
+  <File Type="OPT-HWDEF" Name="ex4.hwdef"/>
+  <File Type="OPT-DRC" Name="ex4_drc_opted.rpt"/>
+  <File Type="OPT-TIMING" Name="ex4_timing_summary_opted.rpt"/>
+  <File Type="PWROPT-DCP" Name="ex4_pwropt.dcp"/>
+  <File Type="PWROPT-TIMING" Name="ex4_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="ex4_placed.dcp"/>
+  <File Type="PLACE-IO" Name="ex4_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="ex4_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="ex4_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="ex4_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="ex4_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="ex4_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="ex4_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-TIMING" Name="ex4_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="ex4_postplace_pwropt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="ex4_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="ex4_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="ex4_drc_physopted.rpt"/>
+  <File Type="PHYSOPT-TIMING" Name="ex4_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="ex4_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="ex4_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="ex4_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="ex4_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="ex4_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="ex4_drc_routed.rpx"/>
+  <File Type="BG-BIN" Name="ex4.bin"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="ex4_methodology_drc_routed.rpt"/>
+  <File Type="BG-DRC" Name="ex4.drc"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="ex4_methodology_drc_routed.rpx"/>
+  <File Type="BITSTR-MSK" Name="ex4.msk"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="ex4_methodology_drc_routed.pb"/>
+  <File Type="BG-BGN" Name="ex4.bgn"/>
+  <File Type="ROUTE-PWR" Name="ex4_power_routed.rpt"/>
+  <File Type="ROUTE-PWR-SUM" Name="ex4_power_summary_routed.pb"/>
+  <File Type="ROUTE-STATUS" Name="ex4_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="ex4_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="ex4_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="ex4_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="ex4_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="ex4_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="ex4_clock_utilization_routed.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="ex4_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="ex4_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="ex4_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="ex4_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="ex4_timing_summary_postroute_physopted.rpx"/>
+  <File Type="BG-BIT" Name="ex4.bit"/>
+  <File Type="BITSTR-RBT" Name="ex4.rbt"/>
+  <File Type="BITSTR-NKY" Name="ex4.nky"/>
+  <File Type="BITSTR-BMM" Name="ex4_bd.bmm"/>
+  <File Type="BITSTR-MMI" Name="ex4.mmi"/>
+  <File Type="BITSTR-SYSDEF" Name="ex4.sysdef"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/ex4.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="ex4"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2016"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

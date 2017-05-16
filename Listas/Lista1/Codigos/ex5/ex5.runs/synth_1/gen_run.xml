@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="synth_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1490975332">
+  <File Type="RDS-PROPCONSTRS" Name="ex5_greaterthan_4bits_drc_synth.rpt"/>
+  <File Type="PA-TCL" Name="ex5_greaterthan_4bits.tcl"/>
+  <File Type="RDS-RDS" Name="ex5_greaterthan_4bits.vds"/>
+  <File Type="RDS-UTIL" Name="ex5_greaterthan_4bits_utilization_synth.rpt"/>
+  <File Type="RDS-UTIL-PB" Name="ex5_greaterthan_4bits_utilization_synth.pb"/>
+  <File Type="RDS-DCP" Name="ex5_greaterthan_4bits.dcp"/>
+  <File Type="VDS-TIMINGSUMMARY" Name="ex5_greaterthan_4bits_timing_summary_synth.rpt"/>
+  <File Type="VDS-TIMING-PB" Name="ex5_greaterthan_4bits_timing_summary_synth.pb"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/ex5_greaterthan_2bits.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/ex5_greaterthan_4bits.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="ex5_greaterthan_4bits"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2016">
+      <Desc>Vivado Synthesis Defaults</Desc>
+    </StratHandle>
+    <Step Id="synth_design"/>
+  </Strategy>
+</GenRun>

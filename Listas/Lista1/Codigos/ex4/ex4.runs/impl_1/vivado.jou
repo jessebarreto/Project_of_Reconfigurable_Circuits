@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Thu Mar 30 23:02:27 2017
+# Process ID: 6396
+# Current directory: C:/Xilinx/Projetos_PCR/Lista1/ex4/ex4.runs/impl_1
+# Command line: vivado.exe -log ex4.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source ex4.tcl -notrace
+# Log file: C:/Xilinx/Projetos_PCR/Lista1/ex4/ex4.runs/impl_1/ex4.vdi
+# Journal file: C:/Xilinx/Projetos_PCR/Lista1/ex4/ex4.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source ex4.tcl -notrace
