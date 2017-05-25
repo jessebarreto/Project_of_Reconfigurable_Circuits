@@ -1,7 +1,0 @@
-Running: xsim.dir/tb_ex6_barrelshift_multifuncional_behav/xsimk.exe -simmode gui -wdb tb_ex6_barrelshift_multifuncional_behav.wdb -simrunnum 0 -socket 51983
-Design successfully loaded
-Design Loading Memory Usage: 9036 KB (Peak: 9036 KB)
-Design Loading CPU Usage: 77 ms
-Simulation completed
-Simulation Memory Usage: 9716 KB (Peak: 9716 KB)
-Simulation CPU Usage: 108 ms

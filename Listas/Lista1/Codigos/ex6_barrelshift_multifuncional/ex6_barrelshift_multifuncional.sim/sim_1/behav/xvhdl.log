@@ -1,8 +1,0 @@
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Xilinx/Projetos_PCR/Lista1/ex6_barrelshift_multifuncional/ex6_barrelshift_multifuncional.srcs/sources_1/new/ex6_barrelshift_esq.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity ex6_barrelshift_esq
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Xilinx/Projetos_PCR/Lista1/ex6_barrelshift_multifuncional/ex6_barrelshift_multifuncional.srcs/sources_1/new/ex6_barrelshift_dir.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity ex6_barrelshift_dir
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Xilinx/Projetos_PCR/Lista1/ex6_barrelshift_multifuncional/ex6_barrelshift_multifuncional.srcs/sources_1/new/ex6_barrelshift_multifuncional.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity ex6_barrelshift_multifuncional
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Xilinx/Projetos_PCR/Lista1/ex6_barrelshift_multifuncional/ex6_barrelshift_multifuncional.srcs/sim_1/new/tb_ex6_barrelshift_multifuncional.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity tb_ex6_barrelshift_multifuncional

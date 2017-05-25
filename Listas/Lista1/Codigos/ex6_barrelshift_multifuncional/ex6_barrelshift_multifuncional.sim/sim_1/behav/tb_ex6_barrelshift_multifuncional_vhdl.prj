@@ -1,8 +1,0 @@
-# compile vhdl design source files
-vhdl xil_defaultlib  "../../../ex6_barrelshift_multifuncional.srcs/sources_1/new/ex6_barrelshift_esq.vhd"
-vhdl xil_defaultlib  "../../../ex6_barrelshift_multifuncional.srcs/sources_1/new/ex6_barrelshift_dir.vhd"
-vhdl xil_defaultlib  "../../../ex6_barrelshift_multifuncional.srcs/sources_1/new/ex6_barrelshift_multifuncional.vhd"
-vhdl xil_defaultlib  "../../../ex6_barrelshift_multifuncional.srcs/sim_1/new/tb_ex6_barrelshift_multifuncional.vhd"
-
-# Do not sort compile order
-nosort

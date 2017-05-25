@@ -89,7 +89,7 @@ begin
         ready => ready); 
 
     read_from_file: process
-    file infile	: text is in "imagebinary.txt"; -- input file declaration
+    file infile	: text is in "coins.txt"; -- input file declaration
     variable inline : line; -- line number declaration
     variable dataf  : std_logic_vector(PIXELDEPTH-1 downto 0); 
     begin

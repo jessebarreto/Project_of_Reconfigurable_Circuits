@@ -1,6 +1,0 @@
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Xilinx/Projetos_PCR/Lista1/ex5/ex5.srcs/sources_1/new/ex5_greaterthan_2bits.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity ex5_greaterthan_2bits
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Xilinx/Projetos_PCR/Lista1/ex5/ex5.srcs/sources_1/new/ex5_greaterthan_4bits.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity ex5_greaterthan_4bits
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Xilinx/Projetos_PCR/Lista1/ex5/ex5.srcs/sim_1/new/tb_ex5_greaterthan_4bits.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity tb_ex5_greaterthan_4bits

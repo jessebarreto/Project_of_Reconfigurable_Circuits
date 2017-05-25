@@ -1,1 +1,0 @@
--wto "6a6764fe765e4333a18960c65879a166" --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "tb_ex6_barrelshift_multifuncional_behav" "xil_defaultlib.tb_ex6_barrelshift_multifuncional" -log "elaborate.log" 

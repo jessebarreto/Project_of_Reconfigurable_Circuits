@@ -1,0 +1,12 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../../../../Users/Jessé/VirtualBox VMs/Lubuntu 16 Programming/Shared_Folder/Jesse/PCR_1_2017/Listas/Lista 2/fpupack.vhd"
+vhdl xil_defaultlib  "../../../../../../Users/Jessé/VirtualBox VMs/Lubuntu 16 Programming/Shared_Folder/Jesse/PCR_1_2017/Listas/Lista 2/entities.vhd"
+vhdl xil_defaultlib  "../../../../../../Users/Jessé/VirtualBox VMs/Lubuntu 16 Programming/Shared_Folder/Jesse/PCR_1_2017/Listas/Lista 2/matrixmultiplierpack.vhd"
+vhdl xil_defaultlib  "../../../../../../Users/Jessé/VirtualBox VMs/Lubuntu 16 Programming/Shared_Folder/Jesse/PCR_1_2017/Listas/Lista 2/addsubfsm_v6.vhd"
+vhdl xil_defaultlib  "../../../../../../Users/Jessé/VirtualBox VMs/Lubuntu 16 Programming/Shared_Folder/Jesse/PCR_1_2017/Listas/Lista 2/multiplierfsm_v2.vhd"
+vhdl xil_defaultlib  "../../../Lista2.srcs/sources_1/new/lista2_matrix_mult_cascade_adder_3.vhd"
+vhdl xil_defaultlib  "../../../../../../Users/Jessé/VirtualBox VMs/Lubuntu 16 Programming/Shared_Folder/Jesse/PCR_1_2017/Listas/Lista 2/lista2_matrix_mult.vhd"
+vhdl xil_defaultlib  "../../../../../../Users/Jessé/VirtualBox VMs/Lubuntu 16 Programming/Shared_Folder/Jesse/PCR_1_2017/Listas/Lista 2/tb_matrix_mult.vhd"
+
+# Do not sort compile order
+nosort

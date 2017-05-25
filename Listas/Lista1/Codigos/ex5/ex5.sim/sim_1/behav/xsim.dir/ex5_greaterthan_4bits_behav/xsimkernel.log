@@ -1,7 +1,0 @@
-Running: xsim.dir/ex5_greaterthan_4bits_behav/xsimk.exe -simmode gui -wdb ex5_greaterthan_4bits_behav.wdb -simrunnum 0 -socket 50299
-Design successfully loaded
-Design Loading Memory Usage: 9028 KB (Peak: 9028 KB)
-Design Loading CPU Usage: 93 ms
-Simulation completed
-Simulation Memory Usage: 9696 KB (Peak: 9696 KB)
-Simulation CPU Usage: 140 ms

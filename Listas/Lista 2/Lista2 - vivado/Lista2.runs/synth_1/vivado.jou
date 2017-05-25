@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Tue May 16 23:41:56 2017
+# Process ID: 10308
+# Current directory: C:/Xilinx/Projetos_PCR/Lista2/Lista2.runs/synth_1
+# Command line: vivado.exe -log lista2_matrix_mult.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source lista2_matrix_mult.tcl
+# Log file: C:/Xilinx/Projetos_PCR/Lista2/Lista2.runs/synth_1/lista2_matrix_mult.vds
+# Journal file: C:/Xilinx/Projetos_PCR/Lista2/Lista2.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source lista2_matrix_mult.tcl -notrace

@@ -1,7 +1,0 @@
-Running: xsim.dir/tb_ex3_behav/xsimk.exe -simmode gui -wdb tb_ex3_behav.wdb -simrunnum 0 -socket 61550
-Design successfully loaded
-Design Loading Memory Usage: 8352 KB (Peak: 8352 KB)
-Design Loading CPU Usage: 62 ms
-Simulation completed
-Simulation Memory Usage: 9024 KB (Peak: 9024 KB)
-Simulation CPU Usage: 62 ms

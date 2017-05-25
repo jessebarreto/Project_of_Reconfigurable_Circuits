@@ -1,4 +1,0 @@
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Xilinx/Projetos_PCR/Lista1/ex1/ex1.srcs/sources_1/new/exerc1.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity exerc1
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Xilinx/Projetos_PCR/Lista1/ex1/ex1.srcs/sim_1/new/exerc1_testbench.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity exerc1_testbench
